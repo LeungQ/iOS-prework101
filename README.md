@@ -36,7 +36,7 @@ The problems I encountered were that the pre-work instructions were very vague a
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Queenie Leung]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
