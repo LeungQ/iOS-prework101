@@ -6,6 +6,15 @@ Submitted by: ** Queenie Leung **
 
 Time spent: **2** hours spent in total
 
+<div>
+    <a href="https://www.loom.com/share/4da6edd3f7ab4379a95a59158702bd81">
+   
+    </a>
+    <a href="https://www.loom.com/share/4da6edd3f7ab4379a95a59158702bd81">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4da6edd3f7ab4379a95a59158702bd81-with-play.gif">
+    </a>
+  </div>
+
 ## Required Features
 
 The following **required** functionality is completed:
